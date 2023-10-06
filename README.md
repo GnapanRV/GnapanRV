@@ -1,9 +1,6 @@
-<div align="center">
-<img src="https://i.redd.it/eo1c350nvea71.jpg" align="center" style="width:250px;height=250px;border-radius:50%;" />
-</div>  
-  
 
-### **<div align="center">I'm Gnapan RV, a full-time full-stack developer 👨‍💻 ,Specialize in and Fan of Asp.net core MVC and C# </div>**  
+
+### **<div align="center">I'm Gnapan RV, a full-time full-stack developer 👨‍💻 ,Specialize in  Asp.net core MVC and C# </div>**  
   
 
 - 🔭 I’m currently working on Feelintech.com as Technical head  
