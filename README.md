@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.redd.it/eo1c350nvea71.jpg" align="center" style="width:250px;height=250px;border-radius: 50%;" />
+<img src="https://i.redd.it/eo1c350nvea71.jpg" align="center" style="width:250px;height=250px;border-radius: 50px;" />
 </div>  
   
 
@@ -100,32 +100,3 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
